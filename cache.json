@@ -141,6 +141,20 @@
       ]
     },
     {
+      "href": "https://www.internalpointers.com/rss",
+      "articles": [
+        {
+          "description": "The official rules that allow computers to communicate over the Internet.",
+          "link": "https://www.internalpointers.com/post/introduction-tcp-ip-protocol",
+          "publishedOn": "2021-04-27T08:19:37.000Z",
+          "wordCount": 2091,
+          "sourceHref": "https://www.internalpointers.com/rss",
+          "sourceTitle": "Internal Pointers",
+          "title": "Introduction to the TCP/IP protocol"
+        }
+      ]
+    },
+    {
       "href": "https://www.smashingmagazine.com/feed/",
       "articles": [
         {
